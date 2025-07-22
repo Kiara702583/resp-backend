@@ -4,3 +4,4 @@ gunicorn
 stripe
 requests
 python-dotenv
+django-cors-headers
